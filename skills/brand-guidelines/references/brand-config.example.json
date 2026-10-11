@@ -1,0 +1,41 @@
+{
+  "brand": "DomainTools",
+  "slug": "domaintools",
+  "version": "Version 1.0",
+  "year": "2026",
+  "domain": "DOMAINTOOLS.COM",
+  "credit": "Designed by Miscreants",
+  "source": { "fileKey": "ITLMCTPV6umbVQnuSwDn2Z", "logoPageId": "1:5", "iconPageId": "1248:243" },
+  "target": { "fileKey": "ITLMCTPV6umbVQnuSwDn2Z", "pageId": null, "pageName": "Brand Guidelines (generated)" },
+  "shell": "card",
+  "preset": "core",
+  "navigation": ["contents", "dividers", "thanks"],
+  "pages": ["cover", "contents", "divider.logo", "logo.overview", "logo.variants", "logo.clearspace", "logo.misuse",
+            "divider.color", "color.palette", "color.tints", "color.print",
+            "divider.type", "type.families", "type.hierarchy",
+            "divider.icons", "icons.library", "thanks"],
+  "roles": {
+    "bg":         { "hex": "#EFEFEF", "varId": "VariableID:3:7643" },
+    "surface":    { "hex": "#EFEFEF", "varId": "VariableID:3:7645" },
+    "surfaceAlt": { "hex": "#D9D9D9", "varId": "VariableID:43:2813" },
+    "text":       { "hex": "#111111", "varId": "VariableID:3:7644" },
+    "textMuted":  { "hex": "#303135", "varId": "VariableID:41:1574" },
+    "accent":     { "hex": "#C4EE4E", "varId": "VariableID:2:5863" },
+    "onAccent":   { "hex": "#111111" },
+    "line":       { "hex": "#111111", "varId": "VariableID:3:7759" }
+  },
+  "fonts": {
+    "display": { "family": "DM Sans", "style": "ExtraBold" },
+    "body":    { "family": "DM Sans", "style": "Regular" },
+    "mono":    { "family": "DM Mono", "style": "Regular" }
+  },
+  "radius": 20,
+  "palette": [
+    { "name": "Dark", "hex": "#111111", "varId": "VariableID:2:5859", "group": "Neutral" },
+    { "name": "Green", "hex": "#C4EE4E", "varId": "VariableID:2:5863", "group": "Primary", "pantone": "374 C" }
+  ],
+  "typeScales": { "desktop": "Headings/* + Paragraph/*", "mobile": "Mobile/*" },
+  "assets": { "logo": { "primary": "<componentId>", "secondary": "<componentId>", "mark": "<componentId>" } },
+  "slides": { "cover": "<frameId>", "color.palette": "<frameId>" },
+  "todos": []
+}

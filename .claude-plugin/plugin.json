@@ -1,0 +1,8 @@
+{
+  "name": "brand-guidelines",
+  "version": "1.0.0",
+  "description": "Generate Miscreants-style brand guideline decks in Figma from a brand's variables, styles and logo components, with a guided module picker and layout validation.",
+  "author": { "name": "Miscreants" },
+  "repository": "https://github.com/Miscreants/skill-brand-guidelines",
+  "keywords": ["figma", "brand", "guidelines", "design-system"]
+}

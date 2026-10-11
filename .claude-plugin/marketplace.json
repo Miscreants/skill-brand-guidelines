@@ -1,0 +1,12 @@
+{
+  "name": "miscreants",
+  "owner": { "name": "Miscreants" },
+  "metadata": { "description": "Miscreants internal Claude Code plugins." },
+  "plugins": [
+    {
+      "name": "brand-guidelines",
+      "source": "./",
+      "description": "Generate brand guideline decks in Figma from a brand's variables, styles and logo components."
+    }
+  ]
+}
